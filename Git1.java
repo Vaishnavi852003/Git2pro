@@ -6,6 +6,7 @@ public class Git1{
    System.out.println("helllloo");
    int a=20;
    int b= 30;
-   System.out.println(a+b);
+   int c=40;
+   System.out.println(a+b+c);
 }
 
